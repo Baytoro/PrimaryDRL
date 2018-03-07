@@ -10,7 +10,7 @@ import numpy as np
 import pandas as pd
 import time
 
-np.random.seed(2)  # reproducible
+np.random.seed(3)  # reproducible
 
 
 N_STATES = 6   # the length of the 1 dimensional world
