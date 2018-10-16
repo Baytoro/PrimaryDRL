@@ -12,7 +12,6 @@ import time
 
 np.random.seed(3)  # reproducible
 
-
 N_STATES = 6   # the length of the 1 dimensional world
 ACTIONS = ['left', 'right']     # available actions
 EPSILON = 0.9   # greedy police
