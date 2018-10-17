@@ -34,7 +34,7 @@ RL = PolicyGradient(
     # output_graph=True,
 )
 
-for i_episode in range(3000):
+for i_episode in range(2000):
 
     observation = env.reset()
 
